@@ -83,3 +83,6 @@ function uploadBudget() {
 
 // listen for app coming back online
 window.addEventListener('online', uploadBudget);
+
+
+
